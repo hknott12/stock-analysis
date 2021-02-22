@@ -7,12 +7,12 @@ The purpose of this project was to analyze stock data for Steve, who has just go
 The goal of the project was to see the difference between 2017 and 2018 stock performance. To do this. The results for 2017 are shown below:
 ![2017](images/2017_results.png)
 
-![2018] (images/2018_Results.png)
+![2018](images/2018_Results.png)
 
 ### Refactored Code Time Performance
 The code originally for the amount of time shown below:
-![2017_timer] (images/2017_timer.png)
-![2018_timer] (images/2018_timer.png)
+![2017_timer](images/2017_timer.png)
+![2018_timer](images/2018_timer.png)
 After refactoring the code ran in the amount of time shown below, showing a slight improvement: 
 
 
