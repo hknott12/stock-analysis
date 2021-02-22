@@ -9,7 +9,7 @@ The goal of the project was to see the difference between 2017 and 2018 stock pe
         Cells(4 + i, 1).Value = tickers(i)
         Cells(4 + i, 2).Value = tickerVolumes(i)
         Cells(4 + i, 3).Value = tickerEndingPrice(i) / tickerStartingPrices(i) - 1
- The results for 2017 and 2018 are shown below:  
+ The results for 2017 and 2018 indicated that in 2018, many companies reduced their return on stock price. The most succssful companies were ENPH and RUN, which increased their return both years. The data are shown below:  
 ![2017](images/2017_results.png). 
 ![2018](images/2018_Results.png)
 
