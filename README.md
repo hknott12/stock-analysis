@@ -5,7 +5,8 @@ The purpose of this project was to analyze stock data for Steve, who has just go
 ## Results
 ### 2017 and 2018 Stock Performance
 The goal of the project was to see the difference between 2017 and 2018 stock performance. To do this. The results for 2017 are shown below:
-![2017]images/2017 results
+![2017](images/2017 results)
+
 
 
 ### Refactored Code Time Performance
