@@ -1,7 +1,8 @@
 # Stock Analysis
 Analyzing eco stock data
 ## Overview of Project
-The purpose of this project was to analyze stock data for Steve, who has just gotten his degree in finance and is looking to help his parents determine which alternative energy stock to invest in. The goal of this project is to provide an analysis of stock data to show which companies should be invested in. The excel spreadsheet used can be viewed here: 
+The purpose of this project was to analyze stock data for Steve, who has just gotten his degree in finance and is looking to help his parents determine which alternative energy stock to invest in. The goal of this project is to provide an analysis of stock data to show which companies should be invested in. The excel spreadsheet used can be viewed here: ![excel](VBA_Challenge.xlsm)
+
 ## Results
 ### 2017 and 2018 Stock Performance
 The goal of the project was to see the difference between 2017 and 2018 stock performance. The factors considered for this analysis were total volume (the total dollar value of all stocks being sold for each company) and pecentage return on investment, measured as the difference between starting value and ending value. To do this, header rows for Ticker, Total Daily Volume, and Return were created. Then, an array of tickers was created for each of the stock companies for daily volume and return. A for loop was then created to run through each of the arrays, shown in this code:  
